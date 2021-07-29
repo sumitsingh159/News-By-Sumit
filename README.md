@@ -13,22 +13,7 @@ NewsApp
 <br>
 	  <img src="https://user-images.githubusercontent.com/79156872/127564407-7f385218-baae-4837-8991-c2e5c0aa44f3.png" />
 <br>
-    <h2 align="center">
-        A simple shoes store app made with react native.
-    </h2>
-
-</p>
-
-
-<p align="center">
-	<img src="https://img.shields.io/github/stars/FelipePardim/ReactNative-Shoes" />
-    <img src="https://img.shields.io/github/forks/FelipePardim/ReactNative-Shoes" />
-    <img src="https://img.shields.io/github/issues/FelipePardim/ReactNative-Shoes" />
-    <br>
-    <img src="https://img.shields.io/badge/React%20Native-blue?logo=react" />
-    <img src="https://img.shields.io/badge/Expo-000020?logo=expo" />
-</p>
-
+    
 
 
 ---
