@@ -5,9 +5,13 @@ NewsApp
 </h1>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/79156872/127563298-fc466fdd-fa5e-4c85-915a-acf806811376.png" />
+    <img src="https://user-images.githubusercontent.com/79156872/127564051-4c0bfe0f-ce91-411f-ad53-260ab591c50b.png" />
 	<br><br><br>
-  <img src="https://user-images.githubusercontent.com/79156872/126893773-e947f590-e999-4bf0-a9a6-e5b8e2454af8.png" />
+  <img src="https://user-images.githubusercontent.com/79156872/127564151-0705c78f-ea02-4e2d-87d2-28cfe1405762.png" />
+<br>
+	  <img src="https://user-images.githubusercontent.com/79156872/127564268-d320a367-29ae-426f-a802-870b072cc49d.png" />
+<br>
+	  <img src="https://user-images.githubusercontent.com/79156872/127564407-7f385218-baae-4837-8991-c2e5c0aa44f3.png" />
 <br>
     <h2 align="center">
         A simple shoes store app made with react native.
