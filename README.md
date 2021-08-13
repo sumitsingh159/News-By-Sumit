@@ -1,7 +1,7 @@
 # News-By-Sumit
 NewsApp
 <h1 align="center">
-    React Native Shoes.
+    NewsApp-By-Sumit
 </h1>
 
 <p align="center">
